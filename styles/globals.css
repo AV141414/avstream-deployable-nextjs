@@ -1,0 +1,22 @@
+/* styles/globals.css */
+:root {
+    --primary-color: #2a9d8f;
+    --secondary-color: #e9c46a;
+    --background-color: #f4f1de;
+    --text-color: #264653;
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  #__next {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }

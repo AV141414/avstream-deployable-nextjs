@@ -1,0 +1,8 @@
+/* styles/Footer.module.css */
+.footer {
+    width: 100%;
+    padding: 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+  }
