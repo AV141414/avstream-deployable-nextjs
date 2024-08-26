@@ -135,7 +135,7 @@ Got ideas? Found bugs? Want to add more cool stuff? Fork the repo, make your cha
 
 ## 📜 **License** 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for the boring legal stuff. 📄
+This project is licensed under the APL License. See the [LICENSE](LICENSE) file for the boring legal stuff. 📄
 
 ---
 
